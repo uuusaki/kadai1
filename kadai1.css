@@ -1,0 +1,110 @@
+@charset "UTF-8"
+
+;body{
+    font-family:arial unicode ms; background-color: #dad2f0;
+    }
+
+table{
+    width:100%; 
+    border:none;
+    border-spacing: 8px;
+    }
+td{
+    text-align:center;
+ border:10px outset #a3c1e0;
+ font-family:arial unicode ms;
+ width:32%; height: 180px;
+ background-color: #86A7ca;
+ color:#faeffd
+ }
+
+ td:hover{
+    background-color:#4989ce;
+ }
+ 
+ .prf{
+    color: #86A7ca;
+ }
+ .prf:hover{
+     color:#faeffd
+ }
+
+ 
+
+ a:link{
+     color: #faeffd;
+ }
+
+ a:visited{
+     color:#f3caff;
+ }
+ 
+ div{
+     border: 5px solid;
+     text-align: center;
+     padding: 10%;
+     border-spacing: 5px;
+     width:78%;
+     font-size: larger;
+     color: #faeffd;
+     background-color: #1d4b69;
+ }
+
+img{
+    width: 40%;
+}
+
+ul{
+    float: left;
+
+}
+li{ 
+    border: 5px solid;
+    text-align: center;
+    padding: 7%;
+    border-spacing: 5px;
+    
+  
+    
+}
+#name{
+    background-color: #1d4b69;
+    color: #1d4b69
+}
+#name:hover{
+    color:#d9e9e5
+}
+
+#birth{
+    background-color: #1d4b69;
+}
+#from{
+    background-color: #1d4b69;
+}
+#name #birth #from{
+    float: left;
+}
+#past{
+    background-color: #1d4b69;
+}
+#future{
+    background-color: #1d4b69;
+}
+#hobby1{
+    background-color: #1d4b69;
+}
+#hobby2{
+    background-color: #1d4b69;
+}
+#hobby3{
+    background-color: #1d4b69;
+}
+
+
+
+
+li{
+    float: left;
+    list-style-type: none;
+    padding:100px
+}
